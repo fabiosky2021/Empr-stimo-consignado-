@@ -1,0 +1,9 @@
+{
+  "name": "Evoluir leads- AlphaDB Enterprise",
+  "description": "Ecossistema bancário com Banco de Dados Relacional Virtual e mineração inteligente em Natal/RN.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
